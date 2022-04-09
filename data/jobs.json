@@ -1,0 +1,12 @@
+{
+    "jobs": [
+        {"title": "UX Designer", "id": 1, "details": "Need ux deigner", "pack": 4.5},
+        {"title": "UI Designer", "id": 2," details": "Need ui deigner","pack": 5.5},
+        {"title": "UI/UX Designer", "id": 3, "details": "Need ui/ux deigner", "pack": 7.5}
+    ],
+    "creds": [
+        {"uname": "sandeep", "id": 1, "pwd": "1234"},
+        {"uname": "sandy", "id": 2, "pwd": "1234"},
+        {"uname": "aruna", "id": 3, "pwd": "1234"}
+    ]
+}
